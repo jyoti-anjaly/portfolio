@@ -69,10 +69,12 @@ nav ul li a:hover{
 	width:100%;
 	height: 100%;
 	object-fit:contain;
+	border-radius:60%;
 }
 .model{
 	width:650;
 	height: 450px;
+	border-radius:50%;
 }
 .content{
 	width:90%;
