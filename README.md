@@ -1,2 +1,2 @@
 # portfolio
-LINK:  jyoti-anjaly.github.io/portfolio/
+LINK:  https://jyoti-anjaly.github.io/portfolio/
